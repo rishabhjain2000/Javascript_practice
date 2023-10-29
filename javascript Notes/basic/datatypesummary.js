@@ -64,3 +64,29 @@ const myFunction = function(){
 
 console.log(typeof anotherId);
 console.log(typeof myFunction);
+
+
+
+
+
+
+//******************************************* */
+
+//stack(primitive)
+//heap (non-primitive)
+
+let first="rishabh"
+let anathorname=first
+anathorname="suraj"
+console.log(first); //rishabh
+console.log(anathorname); //suraj
+
+
+let userone={
+    email:"one.gmail.com"
+}
+
+let usertwo=userone;
+usertwo.email="two.gmail.com"
+console.log(userone);
+console.log(usertwo);
