@@ -1,17 +1,15 @@
 "use strict"; // treat all JS code as newer version
 
 // alert( 3 + 3) // we are using nodejs, not browser
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
+
+
 //this is rishabh jain
->>>>>>> fcd4376 (first commit)
+
 console.log(3 
     +
      3) // code readability should be high
-=======
->>>>>>> 50890d2 (change)
+
 
 console.log(3 +3) // code readability should be high
 //this is rishabh jain
